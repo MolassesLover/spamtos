@@ -1,0 +1,7 @@
+NAME="Spamton"
+PRETTY_NAME="Spamton"
+ID=spamton
+ID_LIKE=arch
+BUILD_ID=rolling
+IMAGE_ID=spamton
+IMAGE_VERSION=2022.10.27
